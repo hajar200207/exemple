@@ -1,0 +1,152 @@
+Courses:
+ 1. Master Python: https://lnkd.in/e5rCbvP8
+ 2. Learn SQL: https://lnkd.in/efMKFkfX
+ 3. Get hands-on with MySQL: https://lnkd.in/efk-Mi3c
+ 4. Dive into MongoDB: https://lnkd.in/eMKPWtqX
+ 5. Master PySpark: https://lnkd.in/exwA2hKz
+ 6. Discover Bash, Airflow & Kafka: https://lnkd.in/eyN6u2yd
+ 7. Master Git & GitHub: https://lnkd.in/eX_Q8s99
+ 8. Understand CICD basics: https://lnkd.in/epKGivFY
+ 9. Decode Data Warehousing: https://lnkd.in/eKnVbFAB
+10. Learn DBT: https://lnkd.in/eG9eaEuE
+11. Understand Data Lakes: https://lnkd.in/eQ9xxAJT
+12. Explore DataBricks: https://lnkd.in/ePZpCv86
+13. Learn Azure Databricks: https://lnkd.in/eBij4akJ
+14. Master Snowflake: https://lnkd.in/erETmtFU
+15. Explore Apache NiFi: http://bit.ly/43btwYy
+16. Learn Debezium: http://bit.ly/3K6W5gL
+
+Projects:
+1. Reddit ETL Pipeline: https://lnkd.in/ekmgzGc8
+2. Surfline Dashboard: https://lnkd.in/e6AdaDzz
+3. Finnhub Streaming Data Pipeline: https://lnkd.in/eCF5kZvE
+4. Audiophile End-To-End ELT Pipeline: https://lnkd.in/ercYzXtX
+5. Streamify: https://lnkd.in/ePiEwH5k
+
+🌀Attack-Defense - https://attackdefense.com
+🌀Alert to win - https://aalf.nu/alert1
+🌀Bancocn - https://bancocn.com
+🌀Buffer Overflow Labs - https://lnkd.in/eNbEWYh
+🌀CTF Komodo Security - https://ctf.komodosec.com
+🌀CryptoHack - https://cryptohack.org/
+🌀CMD Challenge - https://cmdchallenge.com
+🌀Explotation Education - https://exploit.education
+🌀Google CTF - https://lnkd.in/e46drbz8
+🌀HackTheBox - Dr. AITH - https://www.hackthebox.com
+🌀Hackthis - https://www.hackthis.co.uk
+🌀Hacksplaining - https://lnkd.in/eAB5CSTA
+🌀Hacker101 - https://ctf.hacker101.com
+🌀Capture The Flag - Hacker Security - https://lnkd.in/ex7R-C-e
+🌀Hacking-Lab - https://hacking-lab.com/
+🌀ImmersiveLabs - https://immersivelabs.com
+🌀NewbieContest - https://lnkd.in/ewBk6fU5
+🌀OverTheWire - http://overthewire.org
+🌀Practical Pentest Labs - https://lnkd.in/esq9Yuv5
+🌀Pentestlab - https://pentesterlab.com
+🌀Penetration Testing Practice Labs - https://lnkd.in/e6wVANYd
+🌀PentestIT LAB - https://lab.pentestit.ru
+🌀PicoCTF - https://picoctf.com
+🌀PWNABLE - https://lnkd.in/eMEwBJzn
+🌀Root-Me - https://www.root-me.org
+🌀Root in Jail - http://rootinjail.com
+🌀SANS Challenger - https://lnkd.in/e5TAMawK
+🌀SmashTheStack - https://lnkd.in/eVn9rP9p
+🌀The Cryptopals Crypto Challenges - https://cryptopals.com
+🌀Try Hack Me - https://tryhackme.com
+🌀Vulnhub - https://www.vulnhub.com
+🌀Vulnmachine - https://lnkd.in/eJ2e_kD
+🌀W3Challs - https://w3challs.com
+🌀WeChall - http://www.wechall.net
+🌀Websploit - https://websploit.org/
+🌀Zenk-Security - https://lnkd.in/ewJ5rNx2
+🌀Cyberdefenders - https://lnkd.in/dVcmjEw8
+🌀LetsDefend- https://letsdefend.io/
+Select your top 3 soft skills? *
+Select 3
+
+Leadership
+Teamwork
+Problem solving
+Analytical
+Communication: verbal & written
+Curiosity
+Adaptability
+Critical thinking
+Time management
+Growth mindset
+Initiative
+Creativity
+Willingness to work
+Integrity
+
+1. Google Project Management
+
+🔗https://lnkd.in/da7NTxh5
+
+2. Agile Project Management
+
+🔗https://lnkd.in/dKJEsDkq
+
+3. Project Execution: Running the Project
+
+🔗https://lnkd.in/dsgyGKUQ
+
+4. Foundations of Project Management
+
+🔗https://lnkd.in/dwc9ejzv
+
+5. Project Initiation: Starting a Successful Project
+
+🔗https://lnkd.in/d4vJErBP
+
+6. Project Planning: Putting It All Together
+
+🔗https://lnkd.in/dr_ui8z2
+
+7. Google Analytics for Power Users
+
+🔗https://lnkd.in/dfcTS4we
+
+8. Fundamentals of digital marketing
+
+🔗https://lnkd.in/d3qtMUXR
+
+9. Python Basics for Data Analysis
+
+🔗https://lnkd.in/dKqtkkuC
+
+10. Data Science Foundations
+
+🔗https://lnkd.in/dwphdKnD
+
+11. Advanced Google Analytics
+
+🔗https://lnkd.in/ds97ZpK6
+
+12. Data, ML, and AI in Google Cloud
+
+🔗https://lnkd.in/dtQy2wKv
+
+13. Google Cloud Computing Foundations: Networking and Security in Google Cloud
+
+🔗https://lnkd.in/g8rhRzzQ
+
+14. Machine Learning Crash Course
+
+🔗https://lnkd.in/dWEEeaq7
+
+15. Basics of Machine Learning
+
+🔗https://lnkd.in/dssh4YyS
+
+16. Data Science with Python
+
+🔗https://lnkd.in/dfxDv65B
+
+____
+
+Premium Data Science Interview Resources
+https://lnkd.in/gPrWQ8is
+
+Note: this link explain step by step how to get the courses for free.
+https://lnkd.in/dF7F6mmR
